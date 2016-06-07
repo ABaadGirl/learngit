@@ -6,3 +6,4 @@ I want to see !
 Creating a new branch is quick and simple.
 add merge
 1
+update something
